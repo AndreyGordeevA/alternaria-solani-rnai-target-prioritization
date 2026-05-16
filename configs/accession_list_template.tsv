@@ -1,0 +1,6 @@
+resource_type	resource_name	accession_or_identifier	version_or_release	role_in_analysis	source_url_or_DOI_if_applicable	local_filename	sha256
+reference_genome	NL03003 full genome	GCA_002952155.1 ASM295215v1; CP022026.1	GenBank/NCBI Assembly	full-genome mapping target and uniqueness BLAST target	NCBI Assembly		TO_BE_FILLED
+reference_genome	HWC168 positive-control assembly	GCA_002837235.1	NCBI/INSDC assembly	positive-control locus evidence	NCBI Assembly		TO_BE_FILLED
+read_panel	PRJNA746421 WGS panel	PRJNA746421	NCBI SRA	read-panel mapping and variability context	NCBI SRA	PRJNA746421_runs.tsv	TO_BE_FILLED
+host_reference	Solanum tuberosum genome/cDNA/CDS	SolTub_3.0	Ensembl Plants	potato host-reference off-target screen	Ensembl Plants		TO_BE_FILLED
+host_reference	Solanum lycopersicum genome/cDNA/CDS	SL3.0	Ensembl Plants	tomato host-reference off-target screen	Ensembl Plants		TO_BE_FILLED

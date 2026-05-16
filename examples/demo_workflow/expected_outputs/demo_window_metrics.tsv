@@ -1,0 +1,3 @@
+candidate_id	candidate_interval	projected_variable_positions_inside_candidate	total_21nt_windows	retained_21nt_windows	retained_21nt_percent
+Candidate_A_180	1-180	0	160	160	100.00
+Candidate_B_160	1-160	0	140	140	100.00
