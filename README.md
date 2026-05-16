@@ -1,6 +1,6 @@
 # AsCEP19/AsCEP20 computational target-prioritization pipeline
 
-This repository provides a reproducible computational workflow for reproducing the core analyses supporting prioritization of AsCEP19-200 and AsCEP20-170.
+This repository provides a reproducible computational workflow supporting the core analyses used to prioritize AsCEP19-200 and AsCEP20-170.
 
 ## What this repository reproduces
 
@@ -15,7 +15,7 @@ This repository provides a reproducible computational workflow for reproducing t
 - Expanded mismatch-aware 19-21 nt host-reference screening.
 - Direct final-candidate uniqueness BLASTn rerun against the NL03003 genome.
 - Supplementary-table assembly checks and manifest generation.
-- Figure-regeneration inputs and documented plotting entry points where applicable.
+- Figure-regeneration inputs and scripted plotting entry points.
 
 
 ## Pipeline stages
