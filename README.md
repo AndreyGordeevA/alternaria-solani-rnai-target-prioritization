@@ -31,7 +31,7 @@ This repository provides a reproducible computational workflow for reproducing t
 9. **Expanded mismatch-aware 19-21 nt screen**: enumerate forward and reverse-complement windows and summarize exact, one-mismatch and two-mismatch matches.
 10. **Candidate-level uniqueness rerun**: run BLASTn for final candidate fragments against the NL03003 genome and classify HSPs.
 11. **Supplementary output generation**: assemble publication-facing supplementary tables, README, manifest and checksums from curated outputs.
-12. **Figure regeneration**: rebuild figure data inputs and, where plotting code is available, regenerate figure panels from documented inputs.
+12. **Figure regeneration**: rebuild figure-data inputs and regenerate the scripted figure panels included in this repository.
 
 ## Recommended run order
 
