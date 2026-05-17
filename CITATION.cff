@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "AsCEP19/AsCEP20 computational target-prioritization pipeline"
+authors:
+  - family-names: Gordeev
+    given-names: Andrey
+repository-code: "https://github.com/AndreyGordeevA/alternaria-solani-rnai-target-prioritization"
+license: MIT
+keywords:
+  - Alternaria solani
+  - RNAi
+  - SIGS
+  - target prioritization
+  - reproducible workflow

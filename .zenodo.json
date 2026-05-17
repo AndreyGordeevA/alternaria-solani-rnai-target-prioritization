@@ -1,0 +1,20 @@
+{
+  "title": "AsCEP19/AsCEP20 computational target-prioritization pipeline",
+  "upload_type": "software",
+  "description": "Reproducible computational workflow and supporting materials for prioritizing AsCEP19-200 and AsCEP20-170 as candidate RNAi/SIGS fragments in Alternaria solani. The repository includes documented command recipes, reusable scripts, configuration templates, a functional demo workflow, and links between pipeline outputs and supplementary materials.",
+  "creators": [
+    {
+      "name": "Gordeev, Andrey"
+    }
+  ],
+  "keywords": [
+    "Alternaria solani",
+    "RNAi",
+    "SIGS",
+    "target prioritization",
+    "fungal pathogen",
+    "reproducible workflow",
+    "bioinformatics"
+  ],
+  "license": "mit"
+}
