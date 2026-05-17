@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1241014797.svg)](https://doi.org/10.5281/zenodo.20254693)
+
 # AsCEP19/AsCEP20 computational target-prioritization pipeline
 
 This repository provides a reproducible computational workflow supporting the core analyses used to prioritize AsCEP19-200 and AsCEP20-170.
